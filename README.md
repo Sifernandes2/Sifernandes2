@@ -19,7 +19,7 @@ Sou mãe do Gabriel, residente em São Bernardo do Campo, e apaixonada por dados
 
 ---
 
-### 🧠 Habilidades Técnicas
+### 🧠 Habilidades Técnicas em Desenvolvimento
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -44,7 +44,7 @@ Sou mãe do Gabriel, residente em São Bernardo do Campo, e apaixonada por dados
 ### 🌱 Em Aprendizado Contínuo
 
 - 🔎 Modelos supervisionados e não supervisionados
-- 📐 Estatística aplicada
+- 📐 Estatística 
 - 🧠 Storytelling com dados
 - ⚙️ Engenharia de dados e pipelines
 
