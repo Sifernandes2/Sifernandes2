@@ -43,9 +43,9 @@ Sou mãe do Gabriel, residente em São Bernardo do Campo, e apaixonada por dados
 
 ### 🌱 Em Aprendizado Contínuo
 
-- 🔎 Modelos supervisionados e não supervisionados
-- 📐 Estatística 
 - 🧠 Storytelling com dados
+- 📐 Estatística 
+- 🔎 Modelos supervisionados e não supervisionados
 - ⚙️ Engenharia de dados e pipelines
 
 ---
