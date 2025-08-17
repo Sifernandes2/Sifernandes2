@@ -37,7 +37,7 @@ Sou mãe do Gabriel, residente em São Bernardo do Campo, e apaixonada por dados
 
 - 🛍️ [AluraStore](#)
 - 📉 [Telecom X - Análise de Evasão de Clientes](#)
-- 📈 [Telecom X - Parte 2: Modelagem Preditiva](#)
+- 📈 [Telecom-X-Parte-II](#)
 
 ---
 
